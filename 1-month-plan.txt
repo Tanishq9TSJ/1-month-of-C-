@@ -1,0 +1,40 @@
+SOLVE ATLEAST 5 QUESTIONS EVERYDAY!!!
+
+1-month roadmap for C++:
+
+Day-01: Programming Basics
+Day-02: Conditionals Statement
+Day-03: Loops
+Day-04: Arrays
+Sunday
+Day-05: Pattern using Arrays
+Day-06: Pointers
+Day-07: String
+Day-08: String-2
+Day-09: Function
+Day-10: Function-2
+Sunday
+Day-11: Structures
+Day-12: Introduction to OOPS
+Day-13: OOPS-2
+Day-14: Operator Overloading
+Day-15: Inheritance
+Day-16: Inheritance-2
+Sunday
+Day-17: Base Class Pointer Derived Class Object
+Day-18: Polymorphism
+Day-19: Friend and Static Members/Inner Classes
+Day-20: Execption Handling
+Day-21: Template Functions and Classes
+Day-22: Constants, Preprocessor Direvtives and Namespaces
+Sunday
+Day-23: Destructor and Virtual Destructors
+Day-24: I/O Streams
+Day-25: STL
+Day-26: Multithreading
+Day-27: C++11
+Day-28: Project
+.
+.
+.
+Continue further Study
